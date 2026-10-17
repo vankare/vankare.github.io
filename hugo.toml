@@ -19,7 +19,7 @@ theme = 'hugo-coder'
   [[params.social]]
     name = "GitHub"
     icon = "fa-brands fa-github"
-    url = "https://github.com/sage25"
+    url = "https://github.com/vankare"
   [[params.social]]
     name = "Email"
     icon = "fa-solid fa-envelope"
